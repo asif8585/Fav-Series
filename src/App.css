@@ -42,7 +42,7 @@
   display: flex;
   justify-content: space-around;
   margin:inherit;
-  border: 18px;
+  border: 15px;
   border-style: outset;
   border-radius: 10px;
 }
