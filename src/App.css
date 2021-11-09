@@ -36,3 +36,26 @@
     transform: rotate(360deg);
   }
 }
+
+.card{
+  width: 400px;
+  display: flex;
+  justify-content: space-around;
+  margin:inherit;
+  border: 18px;
+  border-style: outset;
+  border-radius: 10px;
+}
+/* .card img{
+  width: auto;
+  height: auto;
+} */
+.AllCards{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  margin: 50px 50px 50px 50px;
+}
+
+
+
